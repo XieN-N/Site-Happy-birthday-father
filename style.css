@@ -1,0 +1,162 @@
+.www {
+	border-color:#4470c4;
+}
+
+.www:hover {
+	border-color:#009A0C;
+}
+footer {
+	background-color: #4470c4;
+	padding: 30px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	color: #2C4AFF;
+	text-align: center;
+	line-height: 0px;
+	padding-bottom: 33px;
+	padding-top: 40px;
+	background: url("100287849-birthday-surprise-seamless-pattern-background.png");
+    border: 4px dashed #4470c4;
+}
+
+h1 {
+	font-size: 45px;
+	text-align:center;
+}
+
+a {
+	color:#000000;
+	font-size: 30px;
+	padding-right: 25px;
+	padding-left: 25px;
+	background-color:aliceblue;
+	border-radius: 10px;
+	text-decoration: none;
+	border: 4px dashed #4470c4;
+	margin-right: 15px;
+}
+
+
+.blog-navigation {
+  padding: 30px;
+  padding-top: 35px;
+  vertical-align: top;
+  color: #4470c4;
+  background-color: #4470c4;
+  line-height: 0px;
+  text-align: center;
+  font-weight: bold;
+  margin: 0px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  background: url("100287849-birthday-surprise-seamless-pattern-background.png");
+  border: 4px dashed #4470c4;
+  display: block;
+}
+
+a:hover {
+	color:#4470c4;
+	font-size: 30px;
+	padding-right: 25px;
+	padding-left: 25px;
+	background-color:aliceblue;
+	border-radius: 10px;
+	text-decoration: none;
+	border: 4px dashed #4470c4;
+}
+
+
+
+header {
+	font-size: 45px;
+	text-align: center;
+    margin-bottom: 30px;
+	font-weight: 900;
+}
+
+body {
+  padding: 0;
+  font-family: "Arial", sans-serif;
+  font-size: 14px;
+  line-height: 18px;
+  color: #000000;
+  background: #ffffff no-repeat 50% 0;
+  background-image: url("100287849-birthday-surprise-seamless-patterdkground.png");
+}
+
+
+h2 {
+  padding-bottom: 12px;
+  border-bottom: 1px solid #cccccc;
+}
+
+.site-header {
+  margin-bottom: 30px;
+}
+
+.skills-item {
+  margin-bottom: 15px;
+  padding-left: 20px;
+  border-left: 10px solid #c4c4c4;
+  color: #999999;
+}
+
+.standart {
+  border-color: #ffc5b3;
+  color: #666666;
+}
+
+.vip {
+  border-color: #ff5a26;
+  color: #000000;
+}
+
+.container {
+  width: 480px;
+  margin: 0 auto;
+}
+
+.site-header img {
+  display: block;
+  margin: 0 auto;
+}
+
+.features {
+  margin-bottom: 30px;
+}
+
+.features p {
+  display: inline-block;
+  vertical-align: top;
+  width: 30%;
+  margin: 0 5px;
+  text-align: center;
+  background-repeat: no-repeat;
+  background-position: center top;
+}
+
+.feature-kitten {
+  padding-top: 60px;
+  background-image: url("file:///D|/Stas/Desktop/HTML и CSS/project/img/bottle.svg");
+}
+
+.feature-cat {
+  padding-top: 60px;
+  background-image: url("file:///D|/Stas/Desktop/HTML и CSS/project/img/cat.svg");
+}
+
+.feature-train {
+  padding-top: 60px;
+  background-image: url("file:///D|/Stas/Desktop/HTML и CSS/project/img/whistle.svg");
+}
+
+.skills-list {
+  padding: 0;
+  list-style: none;
+}
+
+.site-footer {
+  display: flex;
+  justify-content: space-between;
+  color: #999999;
+}
